@@ -1,7 +1,5 @@
 Projekt wykonany na laboratorium Bazy Danych (Politechnika Warszawska - wydział MiNI).
 
-# Opis Repozytorium
-
 ## Baza Danych
 
 Repozytorium zawiera skrypty SQL do utworzenia bazy danych oraz związane z nią operacje. Struktura bazy obejmuje tabele Transaction, Accounts, AccountsNumbers, TransactionCategory, TransactionAccountLink oraz TransactionCategoryLink.
