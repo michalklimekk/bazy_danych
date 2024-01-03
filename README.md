@@ -16,9 +16,9 @@ Repozytorium zawiera skrypty SQL do utworzenia bazy danych oraz związane z nią
 
 4. **TransactionCategory:** Definiuje kategorie transakcji, takie jak Wyplata, Premia, Nagroda, Zadoscuczynienie.
 
-5. **TransactionAccountLink:** Ustanawia powiązanie między transakcjami a kontami.
+5. **TransactionAccountLink:** Ustanawia relacje między transakcjami a kontami.
 
-6. **TransactionCategoryLink:** Ustanawia powiązanie między transakcjami a kategoriami.
+6. **TransactionCategoryLink:** Ustanawia relacje między transakcjami a kategoriami.
 
 ## Skrypty
 
