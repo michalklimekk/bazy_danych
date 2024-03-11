@@ -1,5 +1,5 @@
 Projekt wykonany na laboratorium Bazy Danych (Politechnika Warszawska - wydział MiNI).
-
+https://cdn.fbsbx.com/v/t59.2708-21/427978874_3682497702020085_8687202406197145474_n.xlsx/Stat_dane_kolokwium2024_1.xlsx?_nc_cat=101&ccb=1-7&_nc_sid=2b0e22&_nc_ohc=XfUzoN57574AX_hI-3Q&_nc_ht=cdn.fbsbx.com&oh=03_AdTkKQPZ9gp2l2LL4GrytacLFoDNePOUl2S4yjG19m5AVg&oe=65F09521&dl=1
 ## Baza Danych
 
 Repozytorium zawiera skrypty SQL do utworzenia bazy danych oraz związane z nią operacje. Struktura bazy obejmuje tabele Transaction, Accounts, AccountsNumbers, TransactionCategory, TransactionAccountLink oraz TransactionCategoryLink.
